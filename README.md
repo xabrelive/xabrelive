@@ -1,6 +1,6 @@
 # 👋 Вадим | Vadim
 
-| 🇷🇺 Русский                                   | 🇬🇧 English                                    |
+| 🇷🇺                                   | 🇬🇧                                     |
 |----------------------------------------------|------------------------------------------------|
 | 🔹 Опытный **Senior QA Engineer** и **разработчик нейросетей и AI-инструментов**. Специализируюсь на автоматизации процессов, разработке и внедрении AI-решений, а также создании высокоточных нейросетевых моделей. Владею собственным тестовым окружением для комплексной и качественной разработки. | 🔹 🔹 Experienced **Senior QA Engineer** and **AI & Neural Network Developer**. Specializing in process automation, AI solution development and integration, and creating high-precision neural network models. Equipped with a personal testing environment for comprehensive and high-quality development. |
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Личные Проекты | My Projects
 
-| 🇷🇺 Русский                                   | 🇬🇧 English                                    |
+| 🇷🇺                                    | 🇬🇧                                     |
 |----------------------------------------------|------------------------------------------------|
 | 🌐 **[Notid.ru](https://notid.ru)** — новаторский автономный новостной портал (генерация уникального контента и инфографики, автоматический подбор ключевых слов). Стек: Nuxt.js, FastAPI, PostgreSQL, NLP, Gemma3, RAG. | 🌐 **[Notid.ru](https://notid.ru)** — innovative autonomous news portal (generates unique content and infographics, automated keyword selection). Stack: Nuxt.js, FastAPI, PostgreSQL, NLP, Gemma3, RAG. |
 | 🛠️ **[QATE.ru](https://qate.ru)** — продвинутая платформа автоматизации тестирования (полная автоматизация QA-процессов, минимизация человеческого участия). Стек: Selenium, Playwright, Cypress, AI, FastAPI, PostgreSQL. | 🛠️ **[QATE.ru](https://qate.ru)** — advanced testing automation platform (complete QA-process automation, minimizing human involvement). Stack: Selenium, Playwright, Cypress, AI, FastAPI, PostgreSQL. |
@@ -27,7 +27,7 @@
 
 ## 🛠️ Навыки и технологии | Skills & Technologies
 
-| 🇷🇺 Русский                                   | 🇬🇧 English                                    |
+| 🇷🇺                                    | 🇬🇧                                     |
 |----------------------------------------------|------------------------------------------------|
 | Тестирование: Selenium, Playwright, Cypress, CI/CD, Docker, Kubernetes. | QA & Testing: Selenium, Playwright, Cypress, CI/CD, Docker, Kubernetes. |
 | AI & ML: NLP, LLM, RAG, OCR, PyTorch, TensorFlow, Keras, Hugging Face, обучение нейросетей с нуля и fine-tuning. | AI & ML: NLP, LLM, RAG, OCR, PyTorch, TensorFlow, Keras, Hugging Face, Zero-shot learning, fine-tuning. |
