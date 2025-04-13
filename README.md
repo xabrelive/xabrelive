@@ -19,8 +19,6 @@
 
 ## 📈 Статистика GitHub | GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xabrelive&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xabrelive&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xabrelive&theme=radical)
@@ -40,10 +38,14 @@
 
 ## 🏷️ Бейджи и сертификаты | Badges & Certificates
 
-![Python](https://img.shields.io/badge/Python-Expert-brightgreen)
-![PyTorch](https://img.shields.io/badge/PyTorch-Pro-red)
+![Python](https://img.shields.io/badge/Python-Advanced-yellow)
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-yellow)
 ![Selenium](https://img.shields.io/badge/Selenium-Expert-blue)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Advanced-yellow)
+![Cypress](https://img.shields.io/badge/Cypress-Advanced-green)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Expert-red)
+![JS](https://img.shields.io/badge/JS-Advanced-yellow)
+![Zero-shot learning](https://img.shields.io/badge/Zero-shot%20learning-Advanced-green)
 
 ---
 
