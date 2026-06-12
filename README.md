@@ -1,56 +1,72 @@
-# 👋 Вадим | Vadim
+# Вадим · Vadim
 
-| 🇷🇺                                   | 🇬🇧                                     |
-|----------------------------------------------|------------------------------------------------|
-| 🔹 Опытный **Senior QA Engineer** и **разработчик нейросетей и AI-инструментов**. Специализируюсь на автоматизации процессов, разработке и внедрении AI-решений, а также создании высокоточных нейросетевых моделей. Владею собственным тестовым окружением для комплексной и качественной разработки. | 🔹 Experienced **Senior QA Engineer** and **AI & Neural Network Developer**. Specializing in process automation, AI solution development and integration, and creating high-precision neural network models. Equipped with a personal testing environment for comprehensive and high-quality development. |
+**Senior QA · AI-разработчик · founder [QATER.ru](https://qater.ru)**
 
----
+Строю продукты, где интеллект решает реальные задачи — от тест-менеджмента до анализа логов и документов.  
+Раньше автоматизировал QA в продакшене, сейчас собираю экосистему self-hosted инструментов для команд.
 
-## 🚀 Личные Проекты | My Projects
-
-| 🇷🇺                                    | 🇬🇧                                     |
-|----------------------------------------------|------------------------------------------------|
-| 🌐 **[Notid.ru](https://notid.ru)** — новаторский автономный новостной портал (генерация уникального контента и инфографики, автоматический подбор ключевых слов). Стек: Nuxt.js, FastAPI, PostgreSQL, NLP, Gemma3, RAG. | 🌐 **[Notid.ru](https://notid.ru)** — innovative autonomous news portal (generates unique content and infographics, automated keyword selection). Stack: Nuxt.js, FastAPI, PostgreSQL, NLP, Gemma3, RAG. |
-| 🛠️ **[QATE.ru](https://qate.ru)** — продвинутая платформа автоматизации тестирования (полная автоматизация QA-процессов, минимизация человеческого участия). Стек: FastAPI, PostgreSQL, Python, PyTorch, OCR, Computer Vision, NLP. | 🛠️ **[QATE.ru](https://qate.ru)** — advanced testing automation platform (complete QA-process automation, minimizing human involvement). Stack:  FastAPI, PostgreSQL, Python, PyTorch, OCR, Computer Vision, NLP |
-| 💼 **[QATER.ru](https://qater.ru)** — сайт о преимуществах и возможностях QATE. | 💼 **[QATER.ru](https://qater.ru)** — site highlighting benefits and capabilities of QATE. |
-| 📸 **Recognition** — интеллектуальная обработка изображений с генерацией продающих описаний и адаптацией для маркетплейсов. Стек: Python, PyTorch, OCR, Computer Vision, NLP. | 📸 **Recognition** — intelligent image processing with auto-generated sales descriptions, optimized for marketplaces. Stack: Python, PyTorch, OCR, Computer Vision, NLP. |
+> Люблю превращать хаос (логи, договоры, поисковая выдача) в понятные решения.  
+> В свободное время — эксперименты с LLM, RAG и computer vision.
 
 ---
 
-## 📈 Статистика GitHub | GitHub Stats
+## Проекты · [QATER](https://qater.ru)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xabrelive&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xabrelive&theme=radical)
-
----
-
-## 🛠️ Навыки и технологии | Skills & Technologies
-
-| 🇷🇺                                    | 🇬🇧                                     |
-|----------------------------------------------|------------------------------------------------|
-| Тестирование: Selenium, Playwright, Cypress, CI/CD, Docker, Kubernetes. | QA & Testing: Selenium, Playwright, Cypress, CI/CD, Docker, Kubernetes. |
-| AI & ML: NLP, LLM, RAG, OCR, PyTorch, TensorFlow, Keras, Hugging Face, обучение нейросетей с нуля и fine-tuning. | AI & ML: NLP, LLM, RAG, OCR, PyTorch, TensorFlow, Keras, Hugging Face, Zero-shot learning, fine-tuning. |
-| Backend & Frontend: Python (FastAPI, Flask), JavaScript (Nuxt.js, Vue.js, React), PostgreSQL, MongoDB, Redis. | Backend & Frontend: Python (FastAPI, Flask), JavaScript (Nuxt.js, Vue.js, React), PostgreSQL, MongoDB, Redis. |
-
+| | Продукт | Что делает |
+|---|---|---|
+| <img src="https://runt.pro/favicon.svg" width="28" height="28" alt="RUNT" /> | **[RUNT](https://runt.pro)** | Тест-менеджмент: генерация кейсов, прогоны, дефекты, отчёты |
+| <img src="https://logoric.tech/icon.svg" width="28" height="28" alt="Logoric" /> | **[Logoric](https://logoric.tech)** | Анализ логов: инциденты, RCA, semantic search, алерты |
+| <img src="https://tolmach.pro/favicon-32.png" width="28" height="28" alt="Tolmach" /> | **[Tolmach](https://tolmach.pro)** | Разбор документов: summary, риски, обязательства, вопросы |
+| <img src="https://shalmach.pro/favicon.svg" width="28" height="28" alt="Shalmach" /> | **[Shalmach](https://shalmach.pro)** | Недвижимость по фото: бюджет ремонта, риски, аргументы для торга |
+| <img src="https://slopradar.tech/logo.svg" width="28" height="28" alt="SlopRadar" /> | **[SlopRadar](https://slopradar.tech)** | Browser extension: фильтрация шума в Google, Yandex, Bing, DDG |
 
 ---
 
-## 🏷️ Бейджи и сертификаты | Badges & Certificates
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Expert-red)
-![Selenium](https://img.shields.io/badge/Selenium-Expert-blue)
-![Python](https://img.shields.io/badge/Python-Advanced-green)
-![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-yellow)
-![Cypress](https://img.shields.io/badge/Cypress-Advanced-green)
-![JS](https://img.shields.io/badge/JS-Advanced-yellow)
-![ML](https://img.shields.io/badge/ML-Advanced-green)
+## Полезное
+
+**QA**
+- Тестируй риск, а не покрытие ради галочки — сначала критичные user flows
+- Один flaky-тест хуже десяти отсутствующих: чини или выключай сразу
+- Дефект без владельца = дефект, который никто не закроет
+
+**AI / разработка**
+- RAG работает, когда чанки и метаданные продуманы, а не когда модель «побольше»
+- Для продакшена: self-hosted + контроль данных важнее красивого демо
+- Fast AI для классификации, Full AI для расследований — два режима лучше одного «универсального»
+
+**Инструменты, которыми пользуюсь**
+- [Playwright](https://playwright.dev) · [FastAPI](https://fastapi.tiangolo.com) · [PyTorch](https://pytorch.org)
+- [Hugging Face](https://huggingface.co) · [PostgreSQL](https://www.postgresql.org)
 
 ---
 
-## 📫 Контакты | Contacts
-- Telegram: [@Xabre](https://t.me/Xabre)
-- Email: [xabre@live.ru](mailto:xabre@live.ru)
-- GitHub: [xabrelive](https://github.com/xabrelive)
+## Сейчас
 
-🔹 **Постоянное развитие и изучение новых технологий!** | 🔹 **Continuous growth and exploration of new technologies!**
+- 🚀 Экосистема [QATER](https://qater.ru): RUNT → Logoric → Tolmach → Shalmach → SlopRadar
+- 🧠 Эксперименты с multi-agent QA и document intelligence
+- 🔒 Фокус на self-hosted: данные клиента не уходят в облако
 
+**Могу помочь с:** автоматизацией QA · построением test management · observability/логами · внедрением AI в продуктовые процессы
+
+---
+
+## Закладки
+
+| Тема | Ссылки |
+|---|---|
+| QA | [Playwright docs](https://playwright.dev/docs/intro) · [Test Automation University](https://testautomationu.applitools.com/) |
+| AI | [Hugging Face course](https://huggingface.co/learn) · [Prompting Guide](https://www.promptingguide.ai/) |
+| Backend | [FastAPI tutorial](https://fastapi.tiangolo.com/tutorial/) · [12-Factor App](https://12factor.net/ru/) |
+| Observability | [Google SRE Book](https://sre.google/sre-book/table-of-contents/) · [OpenTelemetry](https://opentelemetry.io/docs/) |
+
+---
+
+## Контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Xabre-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Xabre)
+[![Email](https://img.shields.io/badge/Email-xabre@live.ru-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:xabre@live.ru)
+[![QATER](https://img.shields.io/badge/QATER-qater.ru-2f7cff?style=flat)](https://qater.ru)
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xabrelive&layout=compact&theme=radical&hide=html,css)
